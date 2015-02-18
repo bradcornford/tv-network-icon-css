@@ -1,0 +1,23 @@
+{
+    "name": "cornford/tv-network-icon-css",
+    "type": "component",
+    "description": "CSS icons for tv networks",
+    "keywords": ["css", "icon", "tv", "network"],
+    "license": "MIT",
+    "authors":[
+        {
+            "name": "Bradley Cornford",
+            "email": "me@bradleycornford.co.uk"
+        }
+    ],
+    "extra":{
+        "component":{
+            "name": "tv-network-icon-css",
+            "files":[
+                "less/**",
+                "css/**",
+                "img/**"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "tv-network-icon-css",
+    "main": "css/tv-network-icon.min.css",
+    "ignore": [
+        "**/.*",
+        "assets",
+        "Gruntfile.coffee",
+        "index.html",
+        "LICENSE",
+        "package.json"
+    ]
+}
