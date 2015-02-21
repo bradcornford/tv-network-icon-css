@@ -1,271 +1,235 @@
 .tv-network-icon {
-  width: 64px;
-  height: 32px;
-  display: inline-block;
   position: relative;
-  top: 1px;
-  background: transparent url('../img/icons.png') no-repeat 0 0 scroll;
+  display: inline-block;
+  width: 2em;
+  line-height: 1em;
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-image: url(../img/none.svg);
+}
+.tv-network-icon:before {
+  content: "\00a0";
+}
+.tv-network-icon-background {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-image: url(../img/none.svg);
+}
+.tv-network-icon-4music {
+  background-image: url(../img/4music.svg);
+}
+.tv-network-icon-4seven {
+  background-image: url(../img/4seven.svg);
+}
+.tv-network-icon-5 {
+  background-image: url(../img/5.svg);
+}
+.tv-network-icon-5_usa {
+  background-image: url(../img/5_usa.svg);
 }
 .tv-network-icon-abc {
-  background-position: 0 -32px;
+  background-image: url(../img/abc.svg);
+}
+.tv-network-icon-alibi {
+  background-image: url(../img/alibi.svg);
 }
 .tv-network-icon-amc {
-  background-position: 0 -64px;
+  background-image: url(../img/amc.svg);
 }
 .tv-network-icon-bbc_one {
-  background-position: 0 -96px;
+  background-image: url(../img/bbc_one.svg);
 }
 .tv-network-icon-bbc_two {
-  background-position: 0 -128px;
+  background-image: url(../img/bbc_two.svg);
+}
+.tv-network-icon-bbc_three {
+  background-image: url(../img/bbc_three.svg);
+}
+.tv-network-icon-bbc_four {
+  background-image: url(../img/bbc_four.svg);
+}
+.tv-network-icon-bbc_news {
+  background-image: url(../img/bbc_news.svg);
+}
+.tv-network-icon-cartoon_network {
+  background-image: url(../img/cartoon_network.svg);
+}
+.tv-network-icon-cbbc {
+  background-image: url(../img/cbbc.svg);
+}
+.tv-network-icon-cbeebies {
+  background-image: url(../img/cbeebies.svg);
 }
 .tv-network-icon-cbs {
-  background-position: 0 -160px;
+  background-image: url(../img/cbs.svg);
+}
+.tv-network-icon-challenge {
+  background-image: url(../img/challenge.svg);
+}
+.tv-network-icon-channel_4 {
+  background-image: url(../img/channel_4.svg);
+}
+.tv-network-icon-citv {
+  background-image: url(../img/citv.svg);
 }
 .tv-network-icon-comedy_central {
-  background-position: 0 -192px;
+  background-image: url(../img/comedy_central.svg);
+}
+.tv-network-icon-dave {
+  background-image: url(../img/dave.svg);
+}
+.tv-network-icon-dave_ja_vu {
+  background-image: url(../img/dave_ja_vu.svg);
+}
+.tv-network-icon-discovery {
+  background-image: url(../img/discovery.svg);
+}
+.tv-network-icon-discovery_channel {
+  background-image: url(../img/discovery.svg);
+}
+.tv-network-icon-disney_channel {
+  background-image: url(../img/disney_channel.svg);
+}
+.tv-network-icon-dmax {
+  background-image: url(../img/dmax.svg);
+}
+.tv-network-icon-e {
+  background-image: url(../img/e.svg);
+}
+.tv-network-icon-e4 {
+  background-image: url(../img/e4.svg);
+}
+.tv-network-icon-film4 {
+  background-image: url(../img/film4.svg);
 }
 .tv-network-icon-fox {
-  background-position: 0 -224px;
+  background-image: url(../img/fox.svg);
 }
 .tv-network-icon-fx {
-  background-position: 0 -256px;
+  background-image: url(../img/fx.svg);
+}
+.tv-network-icon-fxx {
+  background-image: url(../img/fxx.svg);
+}
+.tv-network-icon-gold {
+  background-image: url(../img/gold.svg);
 }
 .tv-network-icon-hbo {
-  background-position: 0 -288px;
+  background-image: url(../img/hbo.svg);
 }
 .tv-network-icon-history {
-  background-position: 0 -320px;
+  background-image: url(../img/history.svg);
+}
+.tv-network-icon-itv {
+  background-image: url(../img/itv.svg);
+}
+.tv-network-icon-itv2 {
+  background-image: url(../img/itv2.svg);
+}
+.tv-network-icon-itv3 {
+  background-image: url(../img/itv3.svg);
+}
+.tv-network-icon-itv4 {
+  background-image: url(../img/itv4.svg);
+}
+.tv-network-icon-itvbe {
+  background-image: url(../img/itvbe.svg);
+}
+.tv-network-icon-more4 {
+  background-image: url(../img/more4.svg);
 }
 .tv-network-icon-mtv {
-  background-position: 0 -352px;
+  background-image: url(../img/mtv.svg);
 }
 .tv-network-icon-nbc {
-  background-position: 0 -384px;
+  background-image: url(../img/nbc.svg);
 }
 .tv-network-icon-netflix {
-  background-position: 0 -416px;
+  background-image: url(../img/netflix.svg);
 }
-.tv-network-icon-showtime {
-  background-position: 0 -448px;
+.tv-network-icon-nickelodeon {
+  background-image: url(../img/nickelodeon.svg);
+}
+.tv-network-icon-pick {
+  background-image: url(../img/pick.svg);
+}
+.tv-network-icon-quest {
+  background-image: url(../img/quest.svg);
 }
 .tv-network-icon-showcase {
-  background-position: 0 -480px;
+  background-image: url(../img/showcase.svg);
+}
+.tv-network-icon-showtime {
+  background-image: url(../img/showtime.svg);
+}
+.tv-network-icon-sky1 {
+  background-image: url(../img/sky1.svg);
+}
+.tv-network-icon-sky2 {
+  background-image: url(../img/sky2.svg);
 }
 .tv-network-icon-sky_atlantic {
-  background-position: 0 -512px;
+  background-image: url(../img/sky_atlantic.svg);
+}
+.tv-network-icon-sky_news {
+  background-image: url(../img/sky_news.svg);
 }
 .tv-network-icon-space {
-  background-position: 0 -544px;
+  background-image: url(../img/space.svg);
 }
 .tv-network-icon-starz {
-  background-position: 0 -576px;
+  background-image: url(../img/starz.svg);
 }
 .tv-network-icon-syfy {
-  background-position: 0 -608px;
+  background-image: url(../img/syfy.svg);
 }
 .tv-network-icon-tbs {
-  background-position: 0 -640px;
+  background-image: url(../img/tbs.svg);
 }
 .tv-network-icon-the_cw {
-  background-position: 0 -672px;
+  background-image: url(../img/the_cw.svg);
+}
+.tv-network-icon-tlc {
+  background-image: url(../img/tlc.svg);
 }
 .tv-network-icon-tnt {
-  background-position: 0 -704px;
+  background-image: url(../img/tnt.svg);
+}
+.tv-network-icon-trutv {
+  background-image: url(../img/trutv.svg);
+}
+.tv-network-icon-tv_tokyo {
+  background-image: url(../img/tv_tokyo.svg);
 }
 .tv-network-icon-usa_network {
-  background-position: 0 -736px;
+  background-image: url(../img/usa_network.svg);
 }
+.tv-network-icon-universal {
+  background-image: url(../img/universal.svg);
+}
+.tv-network-icon-universal_channel {
+  background-image: url(../img/universal_channel.svg);
+}
+.tv-network-icon-viva {
+  background-image: url(../img/viva.svg);
+}
+.tv-network-icon-yesterday {
+  background-image: url(../img/yesterday.svg);
+}
+.tv-network-icon-background.tv-network-icon-sm,
 .tv-network-icon.tv-network-icon-sm {
   width: 32px;
   height: 16px;
-  background-size: 32px auto;
 }
-.tv-network-icon-sm.tv-network-icon-abc {
-  background-position: 0 -16px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-amc {
-  background-position: 0 -32px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-bbc_one {
-  background-position: 0 -48px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-bbc_two {
-  background-position: 0 -64px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-cbs {
-  background-position: 0 -80px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-comedy_central {
-  background-position: 0 -96px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-fox {
-  background-position: 0 -112px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-fx {
-  background-position: 0 -128px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-hbo {
-  background-position: 0 -144px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-history {
-  background-position: 0 -160px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-mtv {
-  background-position: 0 -176px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-nbc {
-  background-position: 0 -192px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-netflix {
-  background-position: 0 -208px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-showtime {
-  background-position: 0 -224px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-showcase {
-  background-position: 0 -240px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-sky_atlantic {
-  background-position: 0 -256px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-space {
-  background-position: 0 -272px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-starz {
-  background-position: 0 -288px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-syfy {
-  background-position: 0 -304px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-tbs {
-  background-position: 0 -320px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-the_cw {
-  background-position: 0 -336px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-tnt {
-  background-position: 0 -352px;
-  background-size: 32px auto;
-}
-.tv-network-icon-sm.tv-network-icon-usa_network {
-  background-position: 0 -368px;
-  background-size: 32px auto;
-}
+.tv-network-icon-background.tv-network-icon-md,
 .tv-network-icon.tv-network-icon-md {
   width: 64px;
   height: 32px;
-  background-size: 64px auto;
 }
-.tv-network-icon-md.tv-network-icon-abc {
-  background-position: 0 -32px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-amc {
-  background-position: 0 -64px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-bbc_one {
-  background-position: 0 -96px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-bbc_two {
-  background-position: 0 -128px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-cbs {
-  background-position: 0 -160px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-comedy_central {
-  background-position: 0 -192px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-fox {
-  background-position: 0 -224px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-fx {
-  background-position: 0 -256px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-hbo {
-  background-position: 0 -288px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-history {
-  background-position: 0 -320px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-mtv {
-  background-position: 0 -352px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-nbc {
-  background-position: 0 -384px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-netflix {
-  background-position: 0 -416px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-showtime {
-  background-position: 0 -448px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-showcase {
-  background-position: 0 -480px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-sky_atlantic {
-  background-position: 0 -512px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-space {
-  background-position: 0 -544px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-starz {
-  background-position: 0 -576px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-syfy {
-  background-position: 0 -608px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-tbs {
-  background-position: 0 -640px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-the_cw {
-  background-position: 0 -672px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-tnt {
-  background-position: 0 -704px;
-  background-size: 64px auto;
-}
-.tv-network-icon-md.tv-network-icon-usa_network {
-  background-position: 0 -736px;
-  background-size: 64px auto;
+.tv-network-icon-background.tv-network-icon-lg,
+.tv-network-icon.tv-network-icon-lg {
+  width: 128px;
+  height: 64px;
 }

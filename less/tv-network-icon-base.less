@@ -1,35 +1,43 @@
 .tv-network-icon {
-  width: @tv-network-icon-size-medium;
-  height: (@tv-network-icon-size-medium / 2);
-  display: inline-block;
   position: relative;
-  top: 1px;
-  background: transparent url(@tv-network-icon-img-path) no-repeat 0 0 scroll;
+  display: inline-block;
+  width: unit(2 / 1, em);
+  line-height: 1em;
+  .tv-network-icon-background;
+  &:before {
+    content: "\00a0";
+  }
+}
+
+.tv-network-icon-background {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-image: ~"url(@{tv-network-icon-img-path}none.svg)";
 }
 
 .tv-network-icon-size(@size, @sizeVar) {
 
+  .tv-network-icon-background.tv-network-icon-@{size},
   .tv-network-icon.tv-network-icon-@{size} {
     width: @sizeVar;
     height: (@sizeVar / 2);
-    background-size: @sizeVar auto;
   }
 
 }
 
-.tv-network-icon(@network, @index) {
+.tv-network-icon(@network) {
 
   .tv-network-icon-@{network} {
-    background-position: 0 (@index * -(@tv-network-icon-size-medium / 2));
+    background-image: ~"url(@{tv-network-icon-img-path}@{network}.svg)";
   }
 
-  .tv-network-icon-size(@size, @sizeVar) {
+}
 
-    .tv-network-icon-@{size}.tv-network-icon-@{network} {
-      background-position: 0 (@index * -(@sizeVar / 2));
-      background-size: @sizeVar auto;
-    }
+.tv-network-icon-remap(@network, @remapNetwork) {
 
+  .tv-network-icon-@{network} {
+    background-image: ~"url(@{tv-network-icon-img-path}@{remapNetwork}.svg)";
   }
 
 }
