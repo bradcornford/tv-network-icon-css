@@ -26,8 +26,8 @@
 .tv-network-icon-5 {
   background-image: url(../img/5.svg);
 }
-.tv-network-icon-5_usa {
-  background-image: url(../img/5_usa.svg);
+.tv-network-icon-5 _usa {
+  background-image: url(../img/5 _usa.svg);
 }
 .tv-network-icon-abc {
   background-image: url(../img/abc.svg);
@@ -220,16 +220,22 @@
 }
 .tv-network-icon-background.tv-network-icon-sm,
 .tv-network-icon.tv-network-icon-sm {
+  position: relative;
+  display: inline-block;
   width: 32px;
   height: 16px;
 }
 .tv-network-icon-background.tv-network-icon-md,
 .tv-network-icon.tv-network-icon-md {
+  position: relative;
+  display: inline-block;
   width: 64px;
   height: 32px;
 }
 .tv-network-icon-background.tv-network-icon-lg,
 .tv-network-icon.tv-network-icon-lg {
+  position: relative;
+  display: inline-block;
   width: 128px;
   height: 64px;
 }
