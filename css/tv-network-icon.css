@@ -26,8 +26,11 @@
 .tv-network-icon-5 {
   background-image: url(../img/5.svg);
 }
-.tv-network-icon-5 _usa {
-  background-image: url(../img/5 _usa.svg);
+.tv-network-icon-5_usa {
+  background-image: url(../img/5_usa.svg);
+}
+.tv-network-icon-amazon {
+  background-image: url(../img/amazon.svg);
 }
 .tv-network-icon-abc {
   background-image: url(../img/abc.svg);
@@ -37,6 +40,9 @@
 }
 .tv-network-icon-amc {
   background-image: url(../img/amc.svg);
+}
+.tv-network-icon-animal_planet {
+  background-image: url(../img/animal_planet.svg);
 }
 .tv-network-icon-bbc_one {
   background-image: url(../img/bbc_one.svg);
@@ -136,6 +142,9 @@
 }
 .tv-network-icon-itvbe {
   background-image: url(../img/itvbe.svg);
+}
+.tv-network-icon-mbs {
+  background-image: url(../img/mbs.svg);
 }
 .tv-network-icon-more4 {
   background-image: url(../img/more4.svg);
