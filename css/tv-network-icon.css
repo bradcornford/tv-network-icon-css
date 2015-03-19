@@ -101,6 +101,9 @@
 .tv-network-icon-disney_channel {
   background-image: url(../img/disney_channel.svg);
 }
+.tv-network-icon-disney_xd {
+  background-image: url(../img/disney_xd.svg);
+}
 .tv-network-icon-dmax {
   background-image: url(../img/dmax.svg);
 }
@@ -109,6 +112,12 @@
 }
 .tv-network-icon-e4 {
   background-image: url(../img/e4.svg);
+}
+.tv-network-icon-eurosport {
+  background-image: url(../img/eurosport.svg);
+}
+.tv-network-icon-eurosport_2 {
+  background-image: url(../img/eurosport_2.svg);
 }
 .tv-network-icon-film4 {
   background-image: url(../img/film4.svg);
@@ -155,6 +164,9 @@
 .tv-network-icon-mtv {
   background-image: url(../img/mtv.svg);
 }
+.tv-network-icon-nat_geo_wild {
+  background-image: url(../img/nat_geo_wild.svg);
+}
 .tv-network-icon-national_geographic {
   background-image: url(../img/national_geographic.svg);
 }
@@ -172,6 +184,9 @@
 }
 .tv-network-icon-quest {
   background-image: url(../img/quest.svg);
+}
+.tv-network-icon-really {
+  background-image: url(../img/really.svg);
 }
 .tv-network-icon-showcase {
   background-image: url(../img/showcase.svg);
@@ -225,7 +240,7 @@
   background-image: url(../img/universal.svg);
 }
 .tv-network-icon-universal_channel {
-  background-image: url(../img/universal_channel.svg);
+  background-image: url(../img/universal.svg);
 }
 .tv-network-icon-viva {
   background-image: url(../img/viva.svg);
