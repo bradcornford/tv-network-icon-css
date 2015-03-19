@@ -80,6 +80,9 @@
 .tv-network-icon-channel_4 {
   background-image: url(../img/channel_4.svg);
 }
+.tv-network-icon-channel_4_plus1 {
+  background-image: url(../img/channel_4_plus1.svg);
+}
 .tv-network-icon-citv {
   background-image: url(../img/citv.svg);
 }
@@ -112,6 +115,9 @@
 }
 .tv-network-icon-e4 {
   background-image: url(../img/e4.svg);
+}
+.tv-network-icon-e4_plus1 {
+  background-image: url(../img/e4_plus1.svg);
 }
 .tv-network-icon-eurosport {
   background-image: url(../img/eurosport.svg);
@@ -146,14 +152,26 @@
 .tv-network-icon-itv {
   background-image: url(../img/itv.svg);
 }
+.tv-network-icon-itv_plus1 {
+  background-image: url(../img/itv_plus1.svg);
+}
 .tv-network-icon-itv2 {
   background-image: url(../img/itv2.svg);
+}
+.tv-network-icon-itv2_plus1 {
+  background-image: url(../img/itv2_plus1.svg);
 }
 .tv-network-icon-itv3 {
   background-image: url(../img/itv3.svg);
 }
+.tv-network-icon-itv3_plus1 {
+  background-image: url(../img/itv3_plus1.svg);
+}
 .tv-network-icon-itv4 {
   background-image: url(../img/itv4.svg);
+}
+.tv-network-icon-itv4_plus1 {
+  background-image: url(../img/itv4_plus1.svg);
 }
 .tv-network-icon-itvbe {
   background-image: url(../img/itvbe.svg);
