@@ -5,6 +5,8 @@
     "grunt-contrib-connect": "0.3.x",
     "grunt-contrib-cssmin": "0.5.x",
     "grunt-contrib-less": "^1.0.0",
-    "grunt-contrib-watch": "0.5.x"
+    "grunt-contrib-watch": "0.5.x",
+    "grunt-svgmin": "^2.0.1",
+    "grunt-text-replace": "^0.4.0"
   }
 }

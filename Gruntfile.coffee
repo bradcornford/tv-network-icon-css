@@ -1,23 +1,44 @@
 module.exports = (grunt)->
-  SRC_DIR = "less"
-  TARGET_DIR = "css"
+  LESS_SRC_DIR = "less"
+  CSS_TARGET_DIR = "css"
+  SVG_SRC_DIR = "img"
+  SVG_TARGET_DIR = "img"
 
   grunt.initConfig
     less:
       app_css:
-        src: "#{SRC_DIR}/tv-network-icon.less"
-        dest: "#{TARGET_DIR}/tv-network-icon.css"
+        src: "#{LESS_SRC_DIR}/tv-network-icon.less"
+        dest: "#{CSS_TARGET_DIR}/tv-network-icon.css"
 
     cssmin:
       app_css:
-        src: "#{TARGET_DIR}/tv-network-icon.css"
-        dest: "#{TARGET_DIR}/tv-network-icon.min.css"
+        src: "#{CSS_TARGET_DIR}/tv-network-icon.css"
+        dest: "#{CSS_TARGET_DIR}/tv-network-icon.min.css"
+
+    replace:
+      app_css:
+        src: ["#{CSS_TARGET_DIR}/*.css"]
+        overwrite: true
+        replacements: [{
+          from: /5 _/g
+          to: "5_"
+        }]
+
+    svgmin:
+      app_svg:
+        files: [{
+          expand: true,
+          cwd: "#{SVG_SRC_DIR}",
+          src: ["*.svg"],
+          dest: "#{SVG_SRC_DIR}/",
+          ext: '.svg'
+        }]
 
     watch:
       css:
         options:
           livereload: true
-        files: "#{SRC_DIR}/*.less"
+        files: "#{LESS_SRC_DIR}/*.less"
         tasks: ["build"]
 
       assets:
@@ -34,8 +55,10 @@ module.exports = (grunt)->
 
     grunt.loadNpmTasks("grunt-contrib-less")
     grunt.loadNpmTasks("grunt-contrib-cssmin")
+    grunt.loadNpmTasks("grunt-text-replace")
+    grunt.loadNpmTasks("grunt-svgmin")
     grunt.loadNpmTasks("grunt-contrib-watch")
     grunt.loadNpmTasks('grunt-contrib-connect')
 
     grunt.registerTask("default", ["build", "watch"])
-    grunt.registerTask("build", ["less", "cssmin"])
+    grunt.registerTask("build", ["less", "cssmin", "replace", "svgmin"])
