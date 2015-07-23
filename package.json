@@ -1,11 +1,5 @@
 {
   "name": "tv-network-icon-css",
-  "description": "CSS for TV network icons!",
-  "author": "Bradley Cornford <me@bradleycornford.co.uk>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bradcornford/tv-network-icon-css"
-  },
   "devDependencies": {
     "grunt": "0.4.x",
     "grunt-contrib-connect": "0.3.x",
