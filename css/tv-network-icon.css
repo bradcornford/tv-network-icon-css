@@ -35,6 +35,9 @@
 .tv-network-icon-abc {
   background-image: url(../img/abc.svg);
 }
+.tv-network-icon-abc_family {
+  background-image: url(../img/abc_family.svg);
+}
 .tv-network-icon-ae {
   background-image: url(../img/ae.svg);
 }
@@ -212,6 +215,12 @@
 .tv-network-icon-really {
   background-image: url(../img/really.svg);
 }
+.tv-network-icon-rtl {
+  background-image: url(../img/rtl.svg);
+}
+.tv-network-icon-rtl_television {
+  background-image: url(../img/rtl.svg);
+}
 .tv-network-icon-showcase {
   background-image: url(../img/showcase.svg);
 }
@@ -271,6 +280,12 @@
 }
 .tv-network-icon-viva {
   background-image: url(../img/viva.svg);
+}
+.tv-network-icon-yahoo {
+  background-image: url(../img/yahoo.svg);
+}
+.tv-network-icon-yahoo_screen {
+  background-image: url(../img/yahoo.svg);
 }
 .tv-network-icon-yesterday {
   background-image: url(../img/yesterday.svg);
