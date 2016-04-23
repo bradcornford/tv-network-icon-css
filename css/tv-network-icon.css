@@ -89,6 +89,9 @@
 .tv-network-icon-channel_4_plus1 {
   background-image: url(../img/channel_4_plus1.svg);
 }
+.tv-network-icon-channel_5 {
+  background-image: url(../img/5.svg);
+}
 .tv-network-icon-citv {
   background-image: url(../img/citv.svg);
 }
@@ -148,6 +151,9 @@
 }
 .tv-network-icon-fxx {
   background-image: url(../img/fxx.svg);
+}
+.tv-network-icon-fyi {
+  background-image: url(../img/fyi.svg);
 }
 .tv-network-icon-gold {
   background-image: url(../img/gold.svg);
@@ -238,6 +244,9 @@
 }
 .tv-network-icon-sky_atlantic {
   background-image: url(../img/sky_atlantic.svg);
+}
+.tv-network-icon-sky_box_office {
+  background-image: url(../img/sky_box_office.svg);
 }
 .tv-network-icon-sky_news {
   background-image: url(../img/sky_news.svg);
