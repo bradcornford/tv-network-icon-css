@@ -221,6 +221,9 @@
 .tv-network-icon-nickelodeon {
   background-image: url(../img/nickelodeon.svg);
 }
+.tv-network-icon-pbs {
+  background-image: url(../img/pbs.svg);
+}
 .tv-network-icon-pick {
   background-image: url(../img/pick.svg);
 }
@@ -267,6 +270,9 @@
   background-image: url(../img/starz.svg);
 }
 .tv-network-icon-syfy {
+  background-image: url(../img/syfy.svg);
+}
+.tv-network-icon-scifi {
   background-image: url(../img/syfy.svg);
 }
 .tv-network-icon-tbs {
