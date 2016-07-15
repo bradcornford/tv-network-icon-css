@@ -173,7 +173,13 @@
 .tv-network-icon-itv {
   background-image: url(../img/itv.svg);
 }
+.tv-network-icon-itv1 {
+  background-image: url(../img/itv.svg);
+}
 .tv-network-icon-itv_plus1 {
+  background-image: url(../img/itv_plus1.svg);
+}
+.tv-network-icon-itv1_plus1 {
   background-image: url(../img/itv_plus1.svg);
 }
 .tv-network-icon-itv2 {
