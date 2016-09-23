@@ -74,6 +74,12 @@
 .tv-network-icon-bbc_news {
   background-image: url(../img/bbc_news.svg);
 }
+.tv-network-icon-bravo {
+  background-image: url(../img/bravo.svg);
+}
+.tv-network-icon-canal_plus {
+  background-image: url(../img/canal_plus.svg);
+}
 .tv-network-icon-cartoon_network {
   background-image: url(../img/cartoon_network.svg);
 }
@@ -160,6 +166,9 @@
 }
 .tv-network-icon-fyi {
   background-image: url(../img/fyi.svg);
+}
+.tv-network-icon-g4 {
+  background-image: url(../img/g4.svg);
 }
 .tv-network-icon-gold {
   background-image: url(../img/gold.svg);
@@ -271,6 +280,9 @@
 }
 .tv-network-icon-space {
   background-image: url(../img/space.svg);
+}
+.tv-network-icon-spike {
+  background-image: url(../img/spike.svg);
 }
 .tv-network-icon-starz {
   background-image: url(../img/starz.svg);
