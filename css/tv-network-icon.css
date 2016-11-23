@@ -332,6 +332,9 @@
 .tv-network-icon-yahoo_screen {
   background-image: url(../img/yahoo.svg);
 }
+.tv-network-icon-youtube {
+  background-image: url(../img/youtube.svg);
+}
 .tv-network-icon-background.tv-network-icon-sm,
 .tv-network-icon.tv-network-icon-sm {
   position: relative;
