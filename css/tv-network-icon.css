@@ -92,6 +92,9 @@
 .tv-network-icon-cbs {
   background-image: url(../img/cbs.svg);
 }
+.tv-network-icon-cbs_all_access {
+  background-image: url(../img/cbs_all_access.svg);
+}
 .tv-network-icon-challenge {
   background-image: url(../img/challenge.svg);
 }
