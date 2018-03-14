@@ -197,6 +197,9 @@
 .tv-network-icon-itv1 {
   background-image: url(../img/itv.svg);
 }
+.tv-network-icon-itv_encore {
+  background-image: url(../img/itv_encore.svg);
+}
 .tv-network-icon-itv_plus1 {
   background-image: url(../img/itv_plus1.svg);
 }
