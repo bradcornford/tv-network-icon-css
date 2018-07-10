@@ -107,6 +107,9 @@
 .tv-network-icon-channel_5 {
   background-image: url(../img/5.svg);
 }
+.tv-network-icon-cinemax {
+  background-image: url(../img/cinemax.svg);
+}
 .tv-network-icon-citv {
   background-image: url(../img/citv.svg);
 }
@@ -159,6 +162,9 @@
   background-image: url(../img/film4.svg);
 }
 .tv-network-icon-fox {
+  background-image: url(../img/fox.svg);
+}
+.tv-network-icon-fox_channel {
   background-image: url(../img/fox.svg);
 }
 .tv-network-icon-freeform {
@@ -278,6 +284,9 @@
 .tv-network-icon-showtime {
   background-image: url(../img/showtime.svg);
 }
+.tv-network-icon-sky {
+  background-image: url(../img/sky.svg);
+}
 .tv-network-icon-sky1 {
   background-image: url(../img/sky1.svg);
 }
@@ -289,6 +298,9 @@
 }
 .tv-network-icon-sky_box_office {
   background-image: url(../img/sky_box_office.svg);
+}
+.tv-network-icon-sky_cinema {
+  background-image: url(../img/sky_cinema.svg);
 }
 .tv-network-icon-sky_news {
   background-image: url(../img/sky_news.svg);
@@ -340,6 +352,12 @@
 }
 .tv-network-icon-viva {
   background-image: url(../img/viva.svg);
+}
+.tv-network-icon-w {
+  background-image: url(../img/w.svg);
+}
+.tv-network-icon-universal_channel {
+  background-image: url(../img/watch.svg);
 }
 .tv-network-icon-yesterday {
   background-image: url(../img/yesterday.svg);
