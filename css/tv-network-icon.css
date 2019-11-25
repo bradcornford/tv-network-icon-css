@@ -59,6 +59,18 @@
 .tv-network-icon-animal_planet {
   background-image: url(../img/animal_planet.svg);
 }
+.tv-network-icon-antena_3 {
+  background-image: url(../img/antena_3.svg);
+}
+.tv-network-icon-apple_tv {
+  background-image: url(../img/apple_tv.svg);
+}
+.tv-network-icon-bbc {
+  background-image: url(../img/bbc.svg);
+}
+.tv-network-icon-bbc_america {
+  background-image: url(../img/bbc_america.svg);
+}
 .tv-network-icon-bbc_one {
   background-image: url(../img/bbc_one.svg);
 }
@@ -116,14 +128,23 @@
 .tv-network-icon-comedy_central {
   background-image: url(../img/comedy_central.svg);
 }
+.tv-network-icon-crackle {
+  background-image: url(../img/crackle.svg);
+}
 .tv-network-icon-ctv {
   background-image: url(../img/ctv.svg);
+}
+.tv-network-icon-das_erste {
+  background-image: url(../img/das_erste.svg);
 }
 .tv-network-icon-dave {
   background-image: url(../img/dave.svg);
 }
 .tv-network-icon-dave_ja_vu {
   background-image: url(../img/dave_ja_vu.svg);
+}
+.tv-network-icon-dc_universe {
+  background-image: url(../img/dc_universe.svg);
 }
 .tv-network-icon-discovery {
   background-image: url(../img/discovery.svg);
@@ -148,6 +169,12 @@
 }
 .tv-network-icon-e4_plus1 {
   background-image: url(../img/e4_plus1.svg);
+}
+.tv-network-icon-eden {
+  background-image: url(../img/eden.svg);
+}
+.tv-network-icon-epix {
+  background-image: url(../img/epix.svg);
 }
 .tv-network-icon-eurosport {
   background-image: url(../img/eurosport.svg);
@@ -302,6 +329,9 @@
 .tv-network-icon-sky_cinema {
   background-image: url(../img/sky_cinema.svg);
 }
+.tv-network-icon-sky_movies {
+  background-image: url(../img/sky_cinema.svg);
+}
 .tv-network-icon-sky_news {
   background-image: url(../img/sky_news.svg);
 }
@@ -350,14 +380,20 @@
 .tv-network-icon-universal_channel {
   background-image: url(../img/universal.svg);
 }
+.tv-network-icon-vh1 {
+  background-image: url(../img/vh1.svg);
+}
 .tv-network-icon-viva {
   background-image: url(../img/viva.svg);
+}
+.tv-network-icon-vrv {
+  background-image: url(../img/vrv.svg);
 }
 .tv-network-icon-w {
   background-image: url(../img/w.svg);
 }
-.tv-network-icon-universal_channel {
-  background-image: url(../img/watch.svg);
+.tv-network-icon-watch {
+  background-image: url(../img/w.svg);
 }
 .tv-network-icon-yesterday {
   background-image: url(../img/yesterday.svg);
@@ -370,6 +406,12 @@
 }
 .tv-network-icon-youtube {
   background-image: url(../img/youtube.svg);
+}
+.tv-network-icon-youtube_red {
+  background-image: url(../img/youtube_red.svg);
+}
+.tv-network-icon-youtube_premium {
+  background-image: url(../img/youtube_premium.svg);
 }
 .tv-network-icon-background.tv-network-icon-sm,
 .tv-network-icon.tv-network-icon-sm {
