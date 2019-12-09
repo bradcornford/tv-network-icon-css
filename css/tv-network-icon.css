@@ -347,6 +347,9 @@
 .tv-network-icon-spike {
   background-image: url(../img/spike.svg);
 }
+.tv-network-icon-spike_tv {
+  background-image: url(../img/spike.svg);
+}
 .tv-network-icon-starz {
   background-image: url(../img/starz.svg);
 }
