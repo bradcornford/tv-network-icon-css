@@ -152,8 +152,14 @@
 .tv-network-icon-discovery_channel {
   background-image: url(../img/discovery.svg);
 }
+.tv-network-icon-disney {
+  background-image: url(../img/disney_plus.svg);
+}
 .tv-network-icon-disney_channel {
   background-image: url(../img/disney_channel.svg);
+}
+.tv-network-icon-disney_plus {
+  background-image: url(../img/disney_plus.svg);
 }
 .tv-network-icon-disney_xd {
   background-image: url(../img/disney_xd.svg);
