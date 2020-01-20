@@ -65,6 +65,12 @@
 .tv-network-icon-apple_tv {
   background-image: url(../img/apple_tv.svg);
 }
+.tv-network-icon-audience {
+  background-image: url(../img/audience.svg);
+}
+.tv-network-icon-audience_network {
+  background-image: url(../img/audience.svg);
+}
 .tv-network-icon-bbc {
   background-image: url(../img/bbc.svg);
 }
@@ -97,6 +103,9 @@
 }
 .tv-network-icon-cbbc {
   background-image: url(../img/cbbc.svg);
+}
+.tv-network-icon-cbc {
+  background-image: url(../img/cbc.svg);
 }
 .tv-network-icon-cbeebies {
   background-image: url(../img/cbeebies.svg);
@@ -334,6 +343,9 @@
 }
 .tv-network-icon-sky_cinema {
   background-image: url(../img/sky_cinema.svg);
+}
+.tv-network-icon-sky_deutschland {
+  background-image: url(../img/sky.svg);
 }
 .tv-network-icon-sky_movies {
   background-image: url(../img/sky_cinema.svg);
