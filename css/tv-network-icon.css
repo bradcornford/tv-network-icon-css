@@ -161,6 +161,12 @@
 .tv-network-icon-discovery_channel {
   background-image: url(../img/discovery.svg);
 }
+.tv-network-icon-discovery_science {
+  background-image: url(../img/discovery_science.svg);
+}
+.tv-network-icon-discovery_turbo {
+  background-image: url(../img/discovery_turbo.svg);
+}
 .tv-network-icon-disney {
   background-image: url(../img/disney_plus.svg);
 }
@@ -319,6 +325,9 @@
 }
 .tv-network-icon-rtl_television {
   background-image: url(../img/rtl.svg);
+}
+.tv-network-icon-science_channel {
+  background-image: url(../img/science_channel.svg);
 }
 .tv-network-icon-showcase {
   background-image: url(../img/showcase.svg);
