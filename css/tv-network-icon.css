@@ -77,6 +77,9 @@
 .tv-network-icon-bbc_america {
   background-image: url(../img/bbc_america.svg);
 }
+.tv-network-icon-bbc_iplayer {
+  background-image: url(../img/bbc_iplayer.svg);
+}
 .tv-network-icon-bbc_one {
   background-image: url(../img/bbc_one.svg);
 }
@@ -208,6 +211,9 @@
 }
 .tv-network-icon-film4 {
   background-image: url(../img/film4.svg);
+}
+.tv-network-icon-five {
+  background-image: url(../img/5.svg);
 }
 .tv-network-icon-fox {
   background-image: url(../img/fox.svg);
@@ -377,6 +383,9 @@
 .tv-network-icon-spike_tv {
   background-image: url(../img/spike.svg);
 }
+.tv-network-icon-spectrum {
+  background-image: url(../img/spectrum.svg);
+}
 .tv-network-icon-starz {
   background-image: url(../img/starz.svg);
 }
@@ -391,6 +400,9 @@
 }
 .tv-network-icon-the_cw {
   background-image: url(../img/the_cw.svg);
+}
+.tv-network-icon-the_wb {
+  background-image: url(../img/the_wb.svg);
 }
 .tv-network-icon-tlc {
   background-image: url(../img/tlc.svg);
@@ -427,6 +439,9 @@
 }
 .tv-network-icon-watch {
   background-image: url(../img/w.svg);
+}
+.tv-network-icon-wgn_america {
+  background-image: url(../img/wgn_america.svg);
 }
 .tv-network-icon-yesterday {
   background-image: url(../img/yesterday.svg);
