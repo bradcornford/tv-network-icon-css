@@ -224,6 +224,12 @@
 .tv-network-icon-eurosport_2 {
   background-image: url(../img/eurosport2.svg);
 }
+.tv-network-icon-facebook_watch {
+  background-image: url(../img/facebook_watch.svg);
+}
+.tv-network-icon-family {
+  background-image: url(../img/family.svg);
+}
 .tv-network-icon-film4 {
   background-image: url(../img/film4.svg);
 }
@@ -272,11 +278,20 @@
 .tv-network-icon-hbo {
   background-image: url(../img/hbo.svg);
 }
+.tv-network-icon-hbo_max {
+  background-image: url(../img/hbo_max.svg);
+}
 .tv-network-icon-history {
   background-image: url(../img/history.svg);
 }
 .tv-network-icon-hulu {
   background-image: url(../img/hulu.svg);
+}
+.tv-network-icon-investigation_discovery {
+  background-image: url(../img/investigation_discovery.svg);
+}
+.tv-network-icon-ion_television {
+  background-image: url(../img/ion_television.svg);
 }
 .tv-network-icon-itv {
   background-image: url(../img/itv.svg);
@@ -344,6 +359,18 @@
 .tv-network-icon-nine_network {
   background-image: url(../img/nine_network.svg);
 }
+.tv-network-icon-nrk1 {
+  background-image: url(../img/nrk1.svg);
+}
+.tv-network-icon-nrk2 {
+  background-image: url(../img/nrk2.svg);
+}
+.tv-network-icon-nrk3 {
+  background-image: url(../img/nrk3.svg);
+}
+.tv-network-icon-paramount_network {
+  background-image: url(../img/paramount_network.svg);
+}
 .tv-network-icon-peacock {
   background-image: url(../img/peacock.svg);
 }
@@ -352,6 +379,9 @@
 }
 .tv-network-icon-pick {
   background-image: url(../img/pick.svg);
+}
+.tv-network-icon-playstation_network {
+  background-image: url(../img/playstation_network.svg);
 }
 .tv-network-icon-quest {
   background-image: url(../img/quest.svg);
@@ -382,6 +412,9 @@
 }
 .tv-network-icon-showtime {
   background-image: url(../img/showtime.svg);
+}
+.tv-network-icon-shudder {
+  background-image: url(../img/shudder.svg);
 }
 .tv-network-icon-sky {
   background-image: url(../img/sky.svg);
@@ -451,6 +484,9 @@
 }
 .tv-network-icon-tnt {
   background-image: url(../img/tnt.svg);
+}
+.tv-network-icon-travel_channel {
+  background-image: url(../img/travel_channel.svg);
 }
 .tv-network-icon-trutv {
   background-image: url(../img/trutv.svg);
