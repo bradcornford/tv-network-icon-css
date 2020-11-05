@@ -38,6 +38,9 @@
 .tv-network-icon-abc_family {
   background-image: url(../img/abc_family.svg);
 }
+.tv-network-icon-acorn_tv {
+  background-image: url(../img/acorn_tv.svg);
+}
 .tv-network-icon-adult_swim {
   background-image: url(../img/adult_swim.svg);
 }
@@ -98,6 +101,9 @@
 .tv-network-icon-bravo {
   background-image: url(../img/bravo.svg);
 }
+.tv-network-icon-canal {
+  background-image: url(../img/canal_plus.svg);
+}
 .tv-network-icon-canal_plus {
   background-image: url(../img/canal_plus.svg);
 }
@@ -137,11 +143,17 @@
 .tv-network-icon-citv {
   background-image: url(../img/citv.svg);
 }
+.tv-network-icon-cmore {
+  background-image: url(../img/cmore.svg);
+}
 .tv-network-icon-comedy_central {
   background-image: url(../img/comedy_central.svg);
 }
 .tv-network-icon-crackle {
   background-image: url(../img/crackle.svg);
+}
+.tv-network-icon-crave {
+  background-image: url(../img/crave.svg);
 }
 .tv-network-icon-ctv {
   background-image: url(../img/ctv.svg);
@@ -200,6 +212,9 @@
 .tv-network-icon-epix {
   background-image: url(../img/epix.svg);
 }
+.tv-network-icon-espn {
+  background-image: url(../img/espn.svg);
+}
 .tv-network-icon-eurosport {
   background-image: url(../img/eurosport.svg);
 }
@@ -208,6 +223,12 @@
 }
 .tv-network-icon-eurosport_2 {
   background-image: url(../img/eurosport2.svg);
+}
+.tv-network-icon-facebook_watch {
+  background-image: url(../img/facebook_watch.svg);
+}
+.tv-network-icon-family {
+  background-image: url(../img/family.svg);
 }
 .tv-network-icon-film4 {
   background-image: url(../img/film4.svg);
@@ -220,6 +241,18 @@
 }
 .tv-network-icon-fox_channel {
   background-image: url(../img/fox.svg);
+}
+.tv-network-icon-fox_sports_1 {
+  background-image: url(../img/fox_sports_1.svg);
+}
+.tv-network-icon-fox_sports_one {
+  background-image: url(../img/fox_sports_1.svg);
+}
+.tv-network-icon-fox_sports_2 {
+  background-image: url(../img/fox_sports_2.svg);
+}
+.tv-network-icon-fox_sports_two {
+  background-image: url(../img/fox_sports_2.svg);
 }
 .tv-network-icon-freeform {
   background-image: url(../img/freeform.svg);
@@ -245,11 +278,20 @@
 .tv-network-icon-hbo {
   background-image: url(../img/hbo.svg);
 }
+.tv-network-icon-hbo_max {
+  background-image: url(../img/hbo_max.svg);
+}
 .tv-network-icon-history {
   background-image: url(../img/history.svg);
 }
 .tv-network-icon-hulu {
   background-image: url(../img/hulu.svg);
+}
+.tv-network-icon-investigation_discovery {
+  background-image: url(../img/investigation_discovery.svg);
+}
+.tv-network-icon-ion_television {
+  background-image: url(../img/ion_television.svg);
 }
 .tv-network-icon-itv {
   background-image: url(../img/itv.svg);
@@ -314,17 +356,47 @@
 .tv-network-icon-nickelodeon {
   background-image: url(../img/nickelodeon.svg);
 }
+.tv-network-icon-nine_network {
+  background-image: url(../img/nine_network.svg);
+}
+.tv-network-icon-nrk1 {
+  background-image: url(../img/nrk1.svg);
+}
+.tv-network-icon-nrk2 {
+  background-image: url(../img/nrk2.svg);
+}
+.tv-network-icon-nrk3 {
+  background-image: url(../img/nrk3.svg);
+}
+.tv-network-icon-paramount_network {
+  background-image: url(../img/paramount_network.svg);
+}
+.tv-network-icon-peacock {
+  background-image: url(../img/peacock.svg);
+}
 .tv-network-icon-pbs {
   background-image: url(../img/pbs.svg);
 }
 .tv-network-icon-pick {
   background-image: url(../img/pick.svg);
 }
+.tv-network-icon-playstation_network {
+  background-image: url(../img/playstation_network.svg);
+}
 .tv-network-icon-quest {
   background-image: url(../img/quest.svg);
 }
+.tv-network-icon-quibi {
+  background-image: url(../img/quibi.svg);
+}
 .tv-network-icon-really {
   background-image: url(../img/really.svg);
+}
+.tv-network-icon-rte_one {
+  background-image: url(../img/rte_one.svg);
+}
+.tv-network-icon-rte_two {
+  background-image: url(../img/rte_two.svg);
 }
 .tv-network-icon-rtl {
   background-image: url(../img/rtl.svg);
@@ -340,6 +412,9 @@
 }
 .tv-network-icon-showtime {
   background-image: url(../img/showtime.svg);
+}
+.tv-network-icon-shudder {
+  background-image: url(../img/shudder.svg);
 }
 .tv-network-icon-sky {
   background-image: url(../img/sky.svg);
@@ -410,11 +485,17 @@
 .tv-network-icon-tnt {
   background-image: url(../img/tnt.svg);
 }
+.tv-network-icon-travel_channel {
+  background-image: url(../img/travel_channel.svg);
+}
 .tv-network-icon-trutv {
   background-image: url(../img/trutv.svg);
 }
 .tv-network-icon-tv_tokyo {
   background-image: url(../img/tv_tokyo.svg);
+}
+.tv-network-icon-tvfplay {
+  background-image: url(../img/tvfplay.svg);
 }
 .tv-network-icon-usa_network {
   background-image: url(../img/usa_network.svg);
@@ -424,6 +505,9 @@
 }
 .tv-network-icon-universal_channel {
   background-image: url(../img/universal.svg);
+}
+.tv-network-icon-upn {
+  background-image: url(../img/upn.svg);
 }
 .tv-network-icon-vh1 {
   background-image: url(../img/vh1.svg);
